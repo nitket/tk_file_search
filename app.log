@@ -1,0 +1,21 @@
+2021-04-11 18:06:27,208 - INFO - search button clicked
+2021-04-11 18:06:27,209 - INFO - clear all input function called
+2021-04-11 18:06:27,209 - INFO - remove all tree view item called
+2021-04-11 18:06:27,209 - INFO - all items from treeview removed.
+2021-04-11 18:06:27,209 - ERROR - name 'logging' is not defined
+2021-04-11 18:07:39,326 - INFO - search button clicked
+2021-04-11 18:07:39,326 - INFO - clear all input function called
+2021-04-11 18:07:39,326 - INFO - remove all tree view item called
+2021-04-11 18:07:39,326 - INFO - all items from treeview removed.
+2021-04-11 18:07:39,326 - INFO - change merge button state called
+2021-04-11 18:07:39,327 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 18:07:45,354 - INFO - searchFile function return result
+2021-04-11 18:07:45,359 - INFO - change merge button state called
+2021-04-11 18:08:12,538 - INFO - search button clicked
+2021-04-11 18:08:12,539 - INFO - clear all input function called
+2021-04-11 18:08:12,540 - INFO - remove all tree view item called
+2021-04-11 18:08:12,541 - INFO - all items from treeview removed.
+2021-04-11 18:08:12,541 - INFO - change merge button state called
+2021-04-11 18:08:12,541 - INFO - searchFile function called searchTerm=,extension=pdf,path=/home/surendra/Downloads
+2021-04-11 18:08:12,542 - INFO - searchFile function return result
+2021-04-11 18:08:12,542 - INFO - change merge button state called
