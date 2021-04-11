@@ -19,3 +19,115 @@
 2021-04-11 18:08:12,541 - INFO - searchFile function called searchTerm=,extension=pdf,path=/home/surendra/Downloads
 2021-04-11 18:08:12,542 - INFO - searchFile function return result
 2021-04-11 18:08:12,542 - INFO - change merge button state called
+2021-04-11 21:11:59,079 - INFO - search button clicked
+2021-04-11 21:11:59,079 - INFO - clear all input function called
+2021-04-11 21:11:59,080 - INFO - remove all tree view item called
+2021-04-11 21:11:59,080 - INFO - all items from treeview removed.
+2021-04-11 21:11:59,080 - INFO - change merge button state called
+2021-04-11 21:11:59,081 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:12:03,259 - INFO - searchFile function return result
+2021-04-11 21:12:03,263 - INFO - change merge button state called
+2021-04-11 21:12:44,744 - INFO - search button clicked
+2021-04-11 21:12:44,745 - INFO - clear all input function called
+2021-04-11 21:12:44,748 - INFO - remove all tree view item called
+2021-04-11 21:12:44,749 - INFO - all items from treeview removed.
+2021-04-11 21:12:44,749 - INFO - change merge button state called
+2021-04-11 21:12:44,749 - INFO - searchFile function called searchTerm=,extension=txt,path=/
+2021-04-11 21:12:48,907 - INFO - searchFile function return result
+2021-04-11 21:12:49,068 - INFO - change merge button state called
+2021-04-11 21:15:53,361 - INFO - search button clicked
+2021-04-11 21:15:53,361 - INFO - clear all input function called
+2021-04-11 21:15:53,362 - INFO - remove all tree view item called
+2021-04-11 21:15:53,362 - INFO - all items from treeview removed.
+2021-04-11 21:15:53,362 - INFO - change merge button state called
+2021-04-11 21:15:53,362 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:15:57,509 - INFO - searchFile function return result
+2021-04-11 21:15:57,513 - INFO - change merge button state called
+2021-04-11 21:17:21,797 - INFO - search button clicked
+2021-04-11 21:17:21,798 - INFO - clear all input function called
+2021-04-11 21:17:21,798 - INFO - remove all tree view item called
+2021-04-11 21:17:21,799 - INFO - all items from treeview removed.
+2021-04-11 21:17:21,799 - INFO - change merge button state called
+2021-04-11 21:17:21,799 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:17:25,894 - INFO - searchFile function return result
+2021-04-11 21:17:25,898 - INFO - change merge button state called
+2021-04-11 21:18:00,949 - INFO - search button clicked
+2021-04-11 21:18:00,949 - INFO - clear all input function called
+2021-04-11 21:18:00,952 - INFO - remove all tree view item called
+2021-04-11 21:18:00,952 - INFO - all items from treeview removed.
+2021-04-11 21:18:00,952 - INFO - change merge button state called
+2021-04-11 21:18:00,953 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:18:05,029 - INFO - searchFile function return result
+2021-04-11 21:18:05,033 - INFO - change merge button state called
+2021-04-11 21:18:47,126 - INFO - search button clicked
+2021-04-11 21:18:47,127 - INFO - clear all input function called
+2021-04-11 21:18:47,127 - INFO - remove all tree view item called
+2021-04-11 21:18:47,127 - INFO - all items from treeview removed.
+2021-04-11 21:18:47,128 - INFO - change merge button state called
+2021-04-11 21:18:47,128 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:18:51,319 - INFO - searchFile function return result
+2021-04-11 21:18:51,323 - INFO - change merge button state called
+2021-04-11 21:20:06,176 - INFO - search button clicked
+2021-04-11 21:20:06,177 - INFO - clear all input function called
+2021-04-11 21:20:06,177 - INFO - remove all tree view item called
+2021-04-11 21:20:06,177 - INFO - all items from treeview removed.
+2021-04-11 21:20:06,177 - INFO - change merge button state called
+2021-04-11 21:20:06,178 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:20:10,417 - INFO - searchFile function return result
+2021-04-11 21:20:10,419 - INFO - change merge button state called
+2021-04-11 21:21:54,264 - INFO - search button clicked
+2021-04-11 21:21:54,265 - INFO - clear all input function called
+2021-04-11 21:21:54,265 - INFO - remove all tree view item called
+2021-04-11 21:21:54,266 - INFO - all items from treeview removed.
+2021-04-11 21:21:54,266 - INFO - change merge button state called
+2021-04-11 21:21:54,266 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:21:58,345 - INFO - searchFile function return result
+2021-04-11 21:21:58,346 - INFO - change merge button state called
+2021-04-11 21:30:21,366 - INFO - search button clicked
+2021-04-11 21:30:21,367 - INFO - clear all input function called
+2021-04-11 21:30:21,367 - INFO - remove all tree view item called
+2021-04-11 21:30:21,368 - INFO - all items from treeview removed.
+2021-04-11 21:30:21,368 - INFO - change merge button state called
+2021-04-11 21:30:21,368 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:30:25,450 - INFO - searchFile function return result
+2021-04-11 21:30:25,455 - INFO - change merge button state called
+2021-04-11 21:32:09,404 - INFO - search button clicked
+2021-04-11 21:32:09,404 - INFO - clear all input function called
+2021-04-11 21:32:09,405 - INFO - remove all tree view item called
+2021-04-11 21:32:09,405 - INFO - all items from treeview removed.
+2021-04-11 21:32:09,405 - INFO - change merge button state called
+2021-04-11 21:32:09,406 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:32:13,562 - INFO - searchFile function return result
+2021-04-11 21:32:13,567 - INFO - change merge button state called
+2021-04-11 21:33:09,417 - INFO - search button clicked
+2021-04-11 21:33:09,418 - INFO - clear all input function called
+2021-04-11 21:33:09,418 - INFO - remove all tree view item called
+2021-04-11 21:33:09,418 - INFO - all items from treeview removed.
+2021-04-11 21:33:09,419 - INFO - change merge button state called
+2021-04-11 21:33:09,419 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:33:13,526 - INFO - searchFile function return result
+2021-04-11 21:33:13,533 - INFO - change merge button state called
+2021-04-11 21:34:06,906 - INFO - search button clicked
+2021-04-11 21:34:06,906 - INFO - clear all input function called
+2021-04-11 21:34:06,907 - INFO - remove all tree view item called
+2021-04-11 21:34:06,907 - INFO - all items from treeview removed.
+2021-04-11 21:34:06,907 - INFO - change merge button state called
+2021-04-11 21:34:06,908 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:34:11,041 - INFO - searchFile function return result
+2021-04-11 21:34:11,045 - INFO - change merge button state called
+2021-04-11 21:34:45,406 - INFO - search button clicked
+2021-04-11 21:34:45,407 - INFO - clear all input function called
+2021-04-11 21:34:45,407 - INFO - remove all tree view item called
+2021-04-11 21:34:45,407 - INFO - all items from treeview removed.
+2021-04-11 21:34:45,408 - INFO - change merge button state called
+2021-04-11 21:34:45,408 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:34:49,533 - INFO - searchFile function return result
+2021-04-11 21:34:49,537 - INFO - change merge button state called
+2021-04-11 21:35:28,386 - INFO - search button clicked
+2021-04-11 21:35:28,387 - INFO - clear all input function called
+2021-04-11 21:35:28,388 - INFO - remove all tree view item called
+2021-04-11 21:35:28,388 - INFO - all items from treeview removed.
+2021-04-11 21:35:28,388 - INFO - change merge button state called
+2021-04-11 21:35:28,388 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 21:35:32,572 - INFO - searchFile function return result
+2021-04-11 21:35:32,576 - INFO - change merge button state called

@@ -11,7 +11,7 @@ def set_root(s):
     else:
         return '/'
 
-def wrap(string, lenght=50):
+def wrap(string, lenght=80):
     return "\n".join(textwrap.wrap(str(string), lenght))
 
 def mergeTextFiles(files):

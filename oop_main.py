@@ -91,7 +91,7 @@ class App(tk.Tk):
                         yscrollcommand=self.verscrlbar.set)
 
         style = ttk.Style(self.treev)
-        style.configure('Treeview', rowheight=40)  # word wrap
+        style.configure('Treeview', rowheight=35)  # word wrap
 
         # Defining number of columns
         self.treev["columns"] = (1, 2)
@@ -100,7 +100,7 @@ class App(tk.Tk):
         self.treev.column("#0", width=0, stretch=tk.NO, minwidth=100)
         self.treev.column("#1", width=150, anchor="center",
                      minwidth=200, stretch=tk.NO)
-        self.treev.column("#2", width=400, anchor="w", minwidth=400)
+        self.treev.column("#2",anchor="w")
 
         # Assigning the heading names to the
         # respective columns

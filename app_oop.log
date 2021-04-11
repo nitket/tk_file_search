@@ -6,3 +6,11 @@
 2021-04-11 18:23:14,537 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
 2021-04-11 18:23:20,414 - INFO - searchFile function return result
 2021-04-11 18:23:20,423 - INFO - change merge button state called
+2021-04-11 23:32:51,857 - INFO - search button clicked
+2021-04-11 23:32:51,858 - INFO - clear all input function called
+2021-04-11 23:32:51,858 - INFO - remove all tree view item called
+2021-04-11 23:32:51,858 - INFO - all items from treeview removed.
+2021-04-11 23:32:51,858 - INFO - change merge button state called
+2021-04-11 23:32:51,859 - INFO - searchFile function called searchTerm=,extension=pdf,path=/
+2021-04-11 23:32:55,948 - INFO - searchFile function return result
+2021-04-11 23:32:55,953 - INFO - change merge button state called

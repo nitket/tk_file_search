@@ -176,7 +176,7 @@ horscrlbar.pack(side ='bottom', fill ='x')
 treev.configure(xscrollcommand = horscrlbar.set,yscrollcommand=verscrlbar.set)
 
 style = ttk.Style(treev)
-style.configure('Treeview', rowheight=40)  #word wrap
+style.configure('Treeview', rowheight=35)  #word wrap
 
 # Defining number of columns
 treev["columns"] = (1,2)
@@ -184,7 +184,7 @@ treev["columns"] = (1,2)
 # respective columns
 treev.column("#0", width=0,stretch=tk.NO,minwidth=100)
 treev.column("#1", width = 150,anchor="center" ,minwidth=200,stretch=tk.NO)
-treev.column("#2", width = 400,anchor="w",minwidth=400)
+treev.column("#2", anchor="w")
     
 # Assigning the heading names to the 
 # respective columns
